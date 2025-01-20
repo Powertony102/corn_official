@@ -1,6 +1,6 @@
 # Leveraging CORAL-Correlation Consistency Network for Semi-Supervised Left Atrium MRI Segmentation
 
-[Paper(Arxiv)](https://arxiv.org/abs/2410.15916)
+[Paper(Arxiv)](https://arxiv.org/abs/2410.15916) [Paper(IEEE)](https://ieeexplore.ieee.org/abstract/document/10822694)
 
 ## Introduction
 
